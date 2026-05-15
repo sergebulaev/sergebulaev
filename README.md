@@ -7,6 +7,7 @@
 Checkout [Serge’s Neural Inspirations for Humans and Agents](https://bulaev.ai)
 
 Working on:
+
 [co.actor - scalable content creation for personal branding in teams](https://co.actor)
 
 [publora.com - connect your AI agent to social platforms like LinkedIn, Threads, YouTube, Instagram, TikTok](https://publora.com)
